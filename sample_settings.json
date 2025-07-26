@@ -1,0 +1,24 @@
+{
+  "theme": "Kaminari Mode",
+  "playlist": [
+    "C:\\Music\\anime_opening_1.mp3",
+    "C:\\Music\\character_theme_2.wav",
+    "C:\\Music\\battle_music_3.ogg"
+  ],
+  "shuffle": false,
+  "repeat": false,
+  "volume": 70,
+  "visualization_mode": "chakra_bars",
+  "window_geometry": {
+    "x": 100,
+    "y": 100,
+    "width": 1200,
+    "height": 800
+  },
+  "favorites": [
+    "C:\\Music\\favorite_song_1.mp3",
+    "C:\\Music\\favorite_song_2.mp3"
+  ],
+  "last_played": "C:\\Music\\anime_opening_1.mp3",
+  "last_position": 0
+} 
